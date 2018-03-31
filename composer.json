@@ -1,0 +1,13 @@
+{
+    "name": "wenderpmachado/blog",
+    "description": "Wender P Machado Blog",
+    "authors": [
+        {
+            "name": "Wender Machado",
+            "email": "wenderpmachado@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.0"
+    }
+}
